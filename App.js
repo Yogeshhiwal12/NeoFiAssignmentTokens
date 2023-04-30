@@ -97,8 +97,9 @@ const useStyles = makeStyles((theme) => ({
  
   logo: {
     position: 'absolute',
-    top: '140px',
+    top: 'auto',
     left: '50%',
+    marginTop:"-60px",
     transform: 'translateX(-50%)',
     width: '50px',
     height:"50px",
